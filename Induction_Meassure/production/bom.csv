@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,100 nF,
+C2,1206,1,4.7 µF,
+J1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+J2,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+"R1, R2",0805,2,4.7 kΩ,
+U1,WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias,1,LDC1614,

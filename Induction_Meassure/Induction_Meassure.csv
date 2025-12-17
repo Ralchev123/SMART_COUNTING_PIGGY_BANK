@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias";1;"LDC1614";;;
+2;"R1,R2";"R_0805_2012Metric";2;"4.7 kΩ";;;
+3;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+4;"C1";"C_0603_1608Metric";1;"100 nF";;;
+5;"C2";"C_1206_3216Metric";1;"4.7 µF";;;
+6;"J1";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
